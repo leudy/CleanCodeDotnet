@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HH09K3qxpHskd9aQOxlZsWqDgXQCcMd4ZyXc+mD9JmFIL4HVthkzsP6GZurqISnna0bhjN1QfGChLDhaX4Hjvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RLC\\source\\repos\\CleanCodeSharp\\NorthWind.UseCases\\NorthWind.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RLC\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\RLC\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

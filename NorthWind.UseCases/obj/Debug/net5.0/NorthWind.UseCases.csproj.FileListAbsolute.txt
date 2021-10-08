@@ -1,0 +1,17 @@
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\NorthWind.UseCases.deps.json
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\NorthWind.UseCases.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\ref\NorthWind.UseCases.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\NorthWind.UseCases.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\NorthWind.UseCasesDtos.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\NorthWind.UseCasesDtos.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\bin\Debug\net5.0\Nortwind.Entities.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.csproj.AssemblyReference.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.AssemblyInfoInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.AssemblyInfo.cs
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.csproj.CopyComplete
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\ref\NorthWind.UseCases.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.UseCases\obj\Debug\net5.0\NorthWind.UseCases.pdb

@@ -1,0 +1,12 @@
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\bin\Debug\net5.0\Nortwind.Entities.deps.json
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\bin\Debug\net5.0\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\bin\Debug\net5.0\ref\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\bin\Debug\net5.0\Nortwind.Entities.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.csproj.AssemblyReference.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.AssemblyInfoInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.AssemblyInfo.cs
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\ref\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\Nortwind.Entities\obj\Debug\net5.0\Nortwind.Entities.pdb

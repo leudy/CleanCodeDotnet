@@ -1,0 +1,15 @@
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.deps.json
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\ref\NorthWind.WebExceptionsPresenter.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\Nortwind.Entities.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\Nortwind.Entities.pdb
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.AssemblyReference.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfoInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfo.cs
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.CoreCompileInputs.cache
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.CopyComplete
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\ref\NorthWind.WebExceptionsPresenter.dll
+C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.pdb
