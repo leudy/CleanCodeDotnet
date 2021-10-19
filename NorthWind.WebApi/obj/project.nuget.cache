@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GNovL2+6EkE43AQTdf8Hnj8qmeaRWGRZ1Fjt3zNDHRhg5gp7ES8fEKu+6Awm8XEVOBg9qogzK5jBYJrYR+N9CA==",
+  "dgSpecHash": "H7/fIJuxjvPIoYshXPHMJkBfj+ofZUrzT5zM6e2Q8MhIrnU1CUzW2VGm7eCTbs9h0wASGK58NmiY9fqK6KlasA==",
   "success": true,
   "projectFilePath": "C:\\Users\\RLC\\source\\repos\\CleanCodeSharp\\NorthWind.WebApi\\NorthWind.WebApi.csproj",
   "expectedPackageFiles": [
@@ -133,7 +133,8 @@
     "C:\\Users\\RLC\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\RLC\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\RLC\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\RLC\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\RLC\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\RLC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
   ],
   "logs": []
 }

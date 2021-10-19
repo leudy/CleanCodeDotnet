@@ -67,7 +67,6 @@ C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\North
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\NorthWind.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\NorthWind.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\staticwebassets\NorthWind.WebApi.StaticWebAssets.Manifest.cache
-C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\staticwebassets\NorthWind.WebApi.StaticWebAssets.xml
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\scopedcss\bundle\NorthWind.WebApi.styles.css
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\NorthWind.WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\RLC\source\repos\CleanCodeSharp\NorthWind.WebApi\obj\Debug\net5.0\NorthWind.WebApi.csproj.CopyComplete

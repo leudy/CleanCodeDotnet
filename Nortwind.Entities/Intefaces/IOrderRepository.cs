@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Nortwind.Entities.Intefaces
 {
@@ -12,13 +11,5 @@ namespace Nortwind.Entities.Intefaces
         void Create(Order order);
         IEnumerable<Order> GetOrderBySpecification(Specification<Order> specification);
 
-    }
-    public interface IOrderDetailRepository
-    {
-        void Create(OrderDetail orderDetail);
-    }
-    public interface IUnitOfWork
-    {
-        Task<int> SaveChangesAsync();
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mz6v49Lr00KkdmfTePLHSiMyKvQhF/qPW1Qn+vlszuBKXz2GtqlMWHgu3gSK+wErPmY+pTkqMX3H4TV9jeUxwg==",
+  "dgSpecHash": "WH7dsE5DVaOC4qxX4ZYKIhD7SaxZN1+o8KYsMoAivXJDkbN9QaSKxr9gjTMW0vBLtYVH2sQyYVA5H4Rj60keYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\RLC\\source\\repos\\CleanCodeSharp\\NorthWind.Repositories.EFCore\\NorthWind.Repositories.EFCore.csproj",
   "expectedPackageFiles": [

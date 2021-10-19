@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddab3be5-0656-452e-8f60-c09be1c8cf5b": {
+      "ProjectGuid": "ddab3be5-0656-452e-8f60-c09be1c8cf5b",
+      "DisplayName": "NorthWind.UseCasesDtos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
