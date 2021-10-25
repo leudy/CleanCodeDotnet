@@ -5,7 +5,37 @@
       "ProjectGuid": "ddab3be5-0656-452e-8f60-c09be1c8cf5b",
       "DisplayName": "NorthWind.UseCasesDtos",
       "ColorIndex": 0
+    },
+    "16d661f2-3967-4bc8-92ba-d77cec719163": {
+      "ProjectGuid": "16d661f2-3967-4bc8-92ba-d77cec719163",
+      "DisplayName": "NorthWind.UseCases",
+      "ColorIndex": 1
+    },
+    "5c59ceed-5a87-4a43-b1e4-93e489cde29e": {
+      "ProjectGuid": "5c59ceed-5a87-4a43-b1e4-93e489cde29e",
+      "DisplayName": "NorthWind.WebApi",
+      "ColorIndex": 2
+    },
+    "51517c32-0120-4590-b3e9-e237570e9d8e": {
+      "ProjectGuid": "51517c32-0120-4590-b3e9-e237570e9d8e",
+      "DisplayName": "NorthWind.IoC",
+      "ColorIndex": 3
+    },
+    "c845ab0f-6343-4cee-8345-52ee501b4775": {
+      "ProjectGuid": "c845ab0f-6343-4cee-8345-52ee501b4775",
+      "DisplayName": "NorthWind.Repositories.EFCore",
+      "ColorIndex": 4
+    },
+    "f81893fe-7c4b-4918-ba31-d8462e95edd5": {
+      "ProjectGuid": "f81893fe-7c4b-4918-ba31-d8462e95edd5",
+      "DisplayName": "NorthWind.WebExceptionsPresenter",
+      "ColorIndex": 5
+    },
+    "b269a72f-db15-4c42-8007-6737a0389ad4": {
+      "ProjectGuid": "b269a72f-db15-4c42-8007-6737a0389ad4",
+      "DisplayName": "Nortwind.Entities",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }
